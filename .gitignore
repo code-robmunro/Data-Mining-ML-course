@@ -1,2 +1,4 @@
 movielens/
+pendigits/
+.ipynb_checkpoints/
 *.dat
