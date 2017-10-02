@@ -1,4 +1,9 @@
 movielens/
 pendigits/
+images/
+color/
+saturation/
+strictly_colors/
+cats/
 .ipynb_checkpoints/
 *.dat
