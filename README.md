@@ -86,4 +86,11 @@ TOTAL: 84/100
 ```
 <br>
 
+<br>
 
+### Project Proposal [100/100]
+```
+Feedback provided on slack.
+```
+
+<br>
