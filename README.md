@@ -125,3 +125,12 @@ Great presentation using datasets that are quite interesting and that elicit lot
 ```
 
 <br>
+
+### Project Paper [95/100]
+```
+* Well written and organized paper!
+* Some of the images are a bit low-res and hard to read.
+* It seems that you learned quite a bit in the process, and your conclusion in particular does a good job describing all the challenges you ran into. This serves as a great example of how amazingly useful machine learning can be, but it also highlights how difficult it is to formulate the proper questions, collect the correct data, and choose the right models to tackle these questions.
+```
+
+<br>
